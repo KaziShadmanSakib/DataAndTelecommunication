@@ -1,0 +1,2 @@
+11Error!! Can not decode the input for this particular scheme
+Please use only +5V or -5V to decode for this particular scheme

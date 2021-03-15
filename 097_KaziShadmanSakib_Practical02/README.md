@@ -1,0 +1,2 @@
+# Data and Telecommunication
+Developed an encoder and a decoder for Biphase (Manchester and Differential Manchester) and AMI. Please use the input text file "encodeInput.txt" to encode and the input text file "decodeInput.txt" to decode. All the outputs are saved in separated output files too according to their scheme names.

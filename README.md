@@ -1,1 +1,2 @@
-# DataAndTelecommunication
+# Data and Telecommunication
+All the assignments given in my Data and Telecommunication course. Includes several encoder and decoder of DIGITAL-TO-DIGITAL CONVERSION techniques like Line Coding (several types of Line Coding) and Scrambling (several types of Scrambling) till now. I will be uploading more until the course ends. All the encoders and decoders are made from scratch using C++ programming language. Please read each "README.md" files in the practical named files before you use any encoder or decoder.

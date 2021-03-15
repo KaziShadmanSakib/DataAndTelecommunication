@@ -1,0 +1,2 @@
+# Data and Telecommunication
+Developed an encoder and a decoder for NRZ-L and NRZ - I. Please use the input text file "encode.txt" to encode and the input text file "decode.txt" to decode. All the outputs are saved in separated output files too according to their scheme names.
