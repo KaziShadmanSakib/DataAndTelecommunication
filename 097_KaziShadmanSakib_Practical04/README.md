@@ -1,0 +1,2 @@
+# Data and Telecommunication
+Developed a 2D parity bit stream converter. And also used python socket programming to transmit data to server from client. Please use the input text file "inputBitStream.txt" to convert the bit stream to 2D parity bit stream. All the outputs are saved in separated output files too.
